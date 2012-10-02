@@ -1,4 +1,0 @@
-foobar, haha
-
-
-what I don't know is that how to get git connect to the internet
